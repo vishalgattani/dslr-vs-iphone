@@ -1,0 +1,14 @@
+7lk_ocr_deploy==0.1.69
+exif==1.6.0
+matplotlib==3.7.1
+numpy==1.21.0
+numpy==1.24.3
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+pandas==1.5.3
+Pillow==9.4.0
+Pillow==9.5.0
+Pillow==9.5.0
+scipy==1.7.3
+svm==0.1.0
+termcolor==2.3.0
